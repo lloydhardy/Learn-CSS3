@@ -5,14 +5,21 @@ Language Reference for CSS3
 
 # CSS3 Properties
 
+# Learn-CSS3
+
+Language Reference for CSS3
+
+
+# CSS3 Properties
+
 align-content - Default (auto) - \
 align-items - Default (auto) - \
 align-self - Default (auto) - \
 alignment-adjust - Default (auto) - \
 alignment-baseline - Default (baseline) - \
-all - Default (~) - \
+all - Default (-) - \
 anchor-point - Default (none) - \
-animation - Default (~) - \
+animation - Default (-) - \
 animation-delay - Default (0) - \
 animation-direction - Default (normal) - \
 animation-duration - Default (0) - \
@@ -22,7 +29,7 @@ animation-name - Default (none) - \
 animation-play-state - Default (running) - \
 animation-timing-function - Default (ease) - \
 backface-visibility - Default (visible) - \
-background - Default (~) - \
+background - Default (-) - \
 background-attachment - Default (scroll) - \
 background-clip - Default (border-box) - \
 background-color - Default (transparent) - \
@@ -37,39 +44,39 @@ bleed - Default (6pt) - \
 bookmark-label - Default (content()) - \
 bookmark-level - Default (none) - \
 bookmark-state - Default (open) - \
-border - Default (~) - \
-border-bottom - Default (~) - \
+border - Default (-) - \
+border-bottom - Default (-) - \
 border-bottom-color - Default (current color) - \
 border-bottom-left-radius - Default (0) - \
 border-bottom-right-radius - Default (0) - \
 border-bottom-style - Default (none) - \
 border-bottom-width - Default (medium) - \
 border-collapse - Default (separate) - \
-border-color - Default (~) - \
+border-color - Default (-) - \
 border-image - Default (none) - \
 border-image-outset - Default (0) - \
 border-image-repeat - Default (stretch) - \
 border-image-slice - Default (100.00%) - \
 border-image-source - Default (none) - \
 border-image-width - Default (1) - \
-border-left - Default (~) - \
+border-left - Default (-) - \
 border-left-color - Default (current color) - \
 border-left-style - Default (none) - \
 border-left-width - Default (medium) - \
 border-radius - Default (0) - \
-border-right - Default (~) - \
+border-right - Default (-) - \
 border-right-color - Default (current color) - \
 border-right-style - Default (none) - \
 border-right-width - Default (medium) - \
 border-spacing - Default (0) - \
-border-style - Default (~) - \
-border-top - Default (~) - \
+border-style - Default (-) - \
+border-top - Default (-) - \
 border-top-color - Default (current color) - \
 border-top-left-radius - Default (0) - \
 border-top-right-radius - Default (0) - \
 border-top-style - Default (none) - \
 border-top-width - Default (medium) - \
-border-width - Default (~) - \
+border-width - Default (-) - \
 bottom - Default (auto) - \
 box-decoration-break - Default (slice) - \
 box-shadow - Default (none) - \
@@ -84,40 +91,40 @@ chains - Default (none) - \
 clear - Default (none) - \
 clip-path - Default (none) - \
 clip-rule - Default (nonzero) - \
-color - Default (~) - \
+color - Default (-) - \
 color-interpolation-filters - Default (auto) - \
 column-count - Default (auto) - \
 column-fill - Default (balance) - \
 column-gap - Default (normal) - \
-column-rule - Default (~) - \
+column-rule - Default (-) - \
 column-rule-color - Default (current color) - \
 column-rule-style - Default (medium) - \
 column-rule-width - Default (medium) - \
 column-span - Default (none) - \
 column-width - Default (auto) - \
-columns - Default (~) - \
+columns - Default (-) - \
 contain - Default (none) - \
 content - Default (normal) - \
 counter-increment - Default (none) - \
 counter-reset - Default (none) - \
 counter-set - Default (none) - \
 crop - Default (auto) - \
-cue - Default (~) - \
+cue - Default (-) - \
 cue-after - Default (none) - \
 cue-before - Default (none) - \
 cursor - Default (auto) - \
 direction - Default (ltr) - \
-display - Default (~) - \
+display - Default (-) - \
 display-inside - Default (auto) - \
 display-list - Default (none) - \
 display-outside - Default (inline-level) - \
 dominant-baseline - Default (auto) - \
 empty-cells - Default (show) - \
 filter - Default (none) - \
-flex - Default (~) - \
+flex - Default (-) - \
 flex-basis - Default (auto) - \
 flex-direction - Default (row) - \
-flex-flow - Default (~) - \
+flex-flow - Default (-) - \
 flex-grow - Default (0) - \
 flex-shrink - Default (1) - \
 flex-wrap - Default (nowrap) - \
@@ -127,8 +134,8 @@ flood-color - Default (black) - \
 flood-opacity - Default (1) - \
 flow-from - Default (none) - \
 flow-into - Default (none) - \
-font - Default (~) - \
-font-family - Default (~) - \
+font - Default (-) - \
+font-family - Default (-) - \
 font-feature-settings - Default (normal) - \
 font-kerning - Default (auto) - \
 font-language-override - Default (normal) - \
@@ -145,18 +152,18 @@ font-variant-ligatures - Default (normal) - \
 font-variant-numeric - Default (normal) - \
 font-variant-position - Default (normal) - \
 font-weight - Default (normal) - \
-grid - Default (~) - \
-grid-area - Default (~) - \
+grid - Default (-) - \
+grid-area - Default (-) - \
 grid-auto-columns - Default (auto) - \
 grid-auto-flow - Default (none) - \
 grid-auto-rows - Default (auto) - \
-grid-column - Default (~) - \
+grid-column - Default (-) - \
 grid-column-end - Default (auto) - \
 grid-column-start - Default (auto) - \
-grid-row - Default (~) - \
+grid-row - Default (-) - \
 grid-row-end - Default (auto) - \
 grid-row-start - Default (auto) - \
-grid-template - Default (~) - \
+grid-template - Default (-) - \
 grid-template-areas - Default (none) - \
 grid-template-columns - Default (none) - \
 grid-template-rows - Default (none) - \
@@ -180,15 +187,15 @@ line-break - Default (auto) - \
 line-grid - Default (match-parent) - \
 line-height - Default (normal) - \
 line-snap - Default (none) - \
-line-stacking - Default (~) - \
+line-stacking - Default (-) - \
 line-stacking-ruby - Default (exclude-ruby) - \
 line-stacking-shift - Default (consider-shifts) - \
 line-stacking-strategy - Default (inline-line-height) - \
-list-style - Default (~) - \
+list-style - Default (-) - \
 list-style-image - Default (none) - \
 list-style-position - Default (outside) - \
 list-style-type - Default (disc) - \
-margin - Default (~) - \
+margin - Default (-) - \
 margin-bottom - Default (0) - \
 margin-left - Default (0) - \
 margin-right - Default (0) - \
@@ -196,7 +203,7 @@ margin-top - Default (0) - \
 marker-side - Default (list-item) - \
 marks - Default (none) - \
 mask - Default (border-box) - \
-mask-box - Default (~) - \
+mask-box - Default (-) - \
 mask-box-outset - Default (0) - \
 mask-box-repeat - Default (stretch) - \
 mask-box-slice - Default (0 fill) - \
@@ -226,16 +233,16 @@ object-position - Default (50% 50%) - \
 opacity - Default (1) - \
 order - Default (0) - \
 orphans - Default (2) - \
-outline - Default (~) - \
+outline - Default (-) - \
 outline-color - Default (invert) - \
 outline-offset - Default (0) - \
 outline-style - Default (none) - \
 outline-width - Default (medium) - \
-overflow - Default (~) - \
+overflow - Default (-) - \
 overflow-wrap - Default (normal) - \
 overflow-x - Default (visible) - \
 overflow-y - Default (visible) - \
-padding - Default (~) - \
+padding - Default (-) - \
 padding-bottom - Default (0) - \
 padding-left - Default (0) - \
 padding-right - Default (0) - \
@@ -245,9 +252,9 @@ page-break-after - Default (auto) - \
 page-break-before - Default (auto) - \
 page-break-inside - Default (auto) - \
 page-policy - Default (start) - \
-pause - Default (~) - \
-pause-after - Default (~) - \
-pause-before - Default (~) - \
+pause - Default (-) - \
+pause-after - Default (-) - \
+pause-before - Default (-) - \
 perspective - Default (none) - \
 perspective-origin - Default (50% 50%) - \
 position - Default (static) - \
@@ -255,7 +262,7 @@ presentation-level - Default (0) - \
 quotes - Default (text) - \
 region-fragment - Default (auto) - \
 resize - Default (none) - \
-rest - Default (~) - \
+rest - Default (-) - \
 rest-after - Default (none) - \
 rest-before - Default (none) - \
 right - Default (auto) - \
@@ -281,7 +288,7 @@ text-decoration-color - Default (currentColor) - \
 text-decoration-line - Default (none) - \
 text-decoration-skip - Default (objects) - \
 text-decoration-style - Default (solid) - \
-text-emphasis - Default (~) - \
+text-emphasis - Default (-) - \
 text-emphasis-color - Default (currentColor) - \
 text-emphasis-position - Default (over right) - \
 text-emphasis-style - Default (none) - \
@@ -299,7 +306,7 @@ top - Default (auto) - \
 transform - Default (none) - \
 transform-origin - Default (50% 50% 0) - \
 transform-style - Default (flat) - \
-transition - Default (~) - \
+transition - Default (-) - \
 transition-delay - Default (0s) - \
 transition-duration - Default (0s) - \
 transition-property - Default (all) - \
@@ -309,7 +316,7 @@ vertical-align - Default (baseline) - \
 visibility - Default (visible) - \
 voice-balance - Default (center) - \
 voice-duration - Default (auto) - \
-voice-family - Default (~) - \
+voice-family - Default (-) - \
 voice-pitch - Default (medium) - \
 voice-range - Default (medium) - \
 voice-rate - Default (normal) - \
