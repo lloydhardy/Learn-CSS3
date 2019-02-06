@@ -5,13 +5,6 @@ Language Reference for CSS3
 
 # CSS3 Properties
 
-# Learn-CSS3
-
-Language Reference for CSS3
-
-
-# CSS3 Properties
-
 align-content - Default (auto) - \
 align-items - Default (auto) - \
 align-self - Default (auto) - \
