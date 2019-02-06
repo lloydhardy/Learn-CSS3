@@ -1,0 +1,18 @@
+#container {
+  width: 100px;
+  height: 300px;
+  border: 1px solid #000;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: center;
+  align-content: center;
+}
+
+#inside div {
+  width: 100px;
+  height: 100px;
+}
+
+/* The inside div will be aligned in the vertical center of the container div */
